@@ -1,5 +1,3 @@
-# File: telco_churn_eda_app.py
-
 import streamlit as st
 import numpy as np
 import pandas as pd
